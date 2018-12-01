@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.listgroup_item:hover {
+  cursor: pointer;
+  background-color: rgb(152, 143, 236);
+}
